@@ -47,7 +47,7 @@ The project includes analysis such as:
 datasets/
 scripts/
 ```
-
+```
 - `datasets/` → Sales datasets used for analysis  
 - `scripts/` → SQL scripts for EDA, reporting, and analytical queries
 ```
